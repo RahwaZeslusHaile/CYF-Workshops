@@ -6,3 +6,7 @@
 // Declare a new variable daysLeftInTheYear by forming an expression with dayNumberOfTheYear
 
 // Use console.log to check your answer
+dayNumberOfTheYear = 300;
+daysLeftInTheYear= 360-dayNumberOfTheYear;
+
+console.log(daysLeftInTheYear);
